@@ -5,16 +5,23 @@
 ### Purpose 
 
  
-Nowadays, around 20% of adults are suffering from mental illness. It affects a person a lot which shows on a person’s act.  This app is a platform which helps a user to track his mental health condition. There are some other purposes of this app which are given below-
+(maybe need a reference for the 20% stat?) 
+
+Multiple research has shown that writing down emotions has positive effects on ones mental-wellbeing, as it allows them to reflect on current events in their life and gain a better understanding of their emotions.  
  
 Serene is a mental health journaling platform that gives users – and other users they authorise – the ability to log and track changes in their emotional state through time.
-·  	Serene was built to solve the problem people face in recounting discrete changes in their mental health and disclosing these changes to those closest to them.
-·  	Most of the time, people don’t want to disclose their mental state to others. But for special purposes such as monitoring (e.g. data can be monitored by the psychologists), users can grant access to other users.
-·  	This app will help to understand a user’s mood so that he/she can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
-·  	It is beneficial for a person to manage low moods and triggering situations if he/she tracks his/her mood daily through this app.
-·  	Serene does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarised by a weekly/daily graphical snapshot. Users can grant other users access to this snapshot for remote monitoring. 
-·  	This app plays a great role to reduce the stigma as in most of the communities, mental illness isn’t widely talked about.
 
+Serene was built to solve the problem people face in (1) recounting discrete changes in their mental health and (2) disclosing these changes to the people around them. 
+
+Unfortunately, many people struggle to disclose their mental state to others. Users can grant access to their mental wellbeing data to other users (e.g. psychologists, social workers, family members) for the purposes of monitoring.
+
+This app will help to understand a user’s mood so that they can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
+
+Serene for a person to manage low moods and triggering situations mood daily through an app like Serene.
+
+Serene does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarised by a weekly/daily graphical snapshot. Users can grant other users access to this snapshot for remote monitoring. 
+
+This app plays a great role to reduce the stigma as in most of the communities where mental illness isn’t widely talked about.
 
 
 ### Functionality/features 
@@ -49,13 +56,13 @@ Railway
 
 ## Data Flow Diagram
 
-![](./assets/dataflow.jpeg)
+![](./docs/dataflow.jpeg)
 
 ## Application Architecture Diagram
 
+![](./docs/architecture.svg)
 
 
-![](./assets/architecture.png)
 
 ## User stories 
 
@@ -95,32 +102,32 @@ High-resolution wireframes located in /assets/Wireframes.
 
 ### <u>Sign up</u>
 
-![](/./assets/wireframe%20screen%20comparison/loginwire.png)
+![](/./docs/wireframe%20screen%20comparison/loginwire.png)
 
 
 ### <u>Log in</u>
-![](/./assets/wireframe%20screen%20comparison/signupwire.png)
+![](/./docs/wireframe%20screen%20comparison/signupwire.png)
 
 ### <u>Profile</u>
-![](/./assets/wireframe%20screen%20comparison/homewire.png)
+![](/./docs/wireframe%20screen%20comparison/homewire.png)
 
 ### <u>Journal</u>
-![](/./assets/wireframe%20screen%20comparison/journalwire.png)
+![](/./docs/wireframe%20screen%20comparison/journalwire.png)
 
 ### <u>Questionnaire</u>
-![](/./assets/wireframe%20screen%20comparison/questionairewire.png)
+![](/./docs/wireframe%20screen%20comparison/questionairewire.png)
 
 ### <u>Summary</u>
-![](/./assets/wireframe%20screen%20comparison/summarywire.png) ![](/./assets/wireframe%20screen%20comparison/summarymobile.png)
+![](/./docs/wireframe%20screen%20comparison/summarywire.png) ![](/./docs/wireframe%20screen%20comparison/summarymobile.png)
 
 
 
 ### <u>Settings</u>
-![](/./assets/wireframe%20screen%20comparison/settingswire.png)
+![](/./docs/wireframe%20screen%20comparison/settingswire.png)
 
 ## Trello Screenshots 
 (https://trello.com/b/MMurIsLO/mern-frontend-kanban)  
 
-![](/./assets/trello2.png)
-![](/./assets/trello3.png)
-![](/./assets/trello1.png)
+![](/./docs/trello2.png)
+![](/./docs/trello3.png)
+![](/./docs/trello1.png)
