@@ -117,7 +117,7 @@ High-resolution wireframes located in /assets/Wireframes.
 
 
 ### <u>Settings</u>
-![](/./docs/wireframe%20screen%20comparison/trackersettings.png)
+![](/./docs/wireframe%20screen%20comparison/trackersetting1.png)
 
 ### <u>Authorise remote tracker</u>
 ![](/./docs/wireframe%20screen%20comparison/trackerlist.png)
