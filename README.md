@@ -111,9 +111,9 @@ High-resolution wireframes located in /assets/Wireframes.
 ![](/./assets/wireframe%20screen%20comparison/questionairewire.png)
 
 ### <u>Summary</u>
-![](/./assets/wireframe%20screen%20comparison/summarywire.png)
+![](/./assets/wireframe%20screen%20comparison/summarywire.png) ![](/./assets/wireframe%20screen%20comparison/summarymobile.png)
 
-![](/./assets/wireframe%20screen%20comparison/summarymobile.png)
+
 
 ### <u>Settings</u>
 ![](/./assets/wireframe%20screen%20comparison/settingswire.png)
