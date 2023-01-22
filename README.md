@@ -4,25 +4,19 @@
 
 ### Purpose 
 
- 
-(maybe need a reference for the 20% stat?) 
+Multiple research has shown that documenting emotions has positive effects on one's mental-wellbeing, as it allows them to reflect on current events in their life and gain a better understanding of their emotions. 
 
-Multiple research has shown that writing down emotions has positive effects on ones mental-wellbeing, as it allows them to reflect on current events in their life and gain a better understanding of their emotions.  
- 
 Serene is a mental health journaling platform that gives users – and other users they authorise – the ability to log and track changes in their emotional state through time.
 
-Serene was built to solve the problem people face in (1) recounting discrete changes in their mental health and (2) disclosing these changes to the people around them. 
+Serene was built to solve the problem people face in (1) recounting discrete changes in their mental health and (2) disclosing these changes to the people around them.
 
-Unfortunately, many people struggle to disclose their mental state to others. Users can grant access to their mental wellbeing data to other users (e.g. psychologists, social workers, family members) for the purposes of monitoring.
+It does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarised by a weekly/daily graphical snapshot. 
 
-This app will help to understand a user’s mood so that they can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
+Unfortunately, many people struggle to disclose their mental state to others. With Serene, users can grant access to their mental wellbeing data to other users (e.g. psychologists, social workers, family members) for the purposes of monitoring.
 
-Serene for a person to manage low moods and triggering situations mood daily through an app like Serene.
+This app will help users better understand their moods so that they can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
 
-Serene does this by allowing users to log their mental state each day via journal entries and a weekly wellbeing questionnaire, with select data summarised by a weekly/daily graphical snapshot. Users can grant other users access to this snapshot for remote monitoring. 
-
-This app plays a great role to reduce the stigma as in most of the communities where mental illness isn’t widely talked about.
-
+Serene aims to help people manage low moods and navigate triggering situations. The app also plays a role in reducing the stigma in  communities where mental illness isn’t widely talked about. A recent study showed approximately 20% of Australians were reportedly living with a mental disorder in 2021 (ABS,2022), which illustrates the need for easily accessible mental health resources. 
 
 ### Functionality/features 
 
@@ -34,7 +28,7 @@ This app plays a great role to reduce the stigma as in most of the communities w
 
 ### Target Audience 
 
-Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care.
+Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care. 
   
 ## Tech Stack 
 
@@ -123,7 +117,10 @@ High-resolution wireframes located in /assets/Wireframes.
 
 
 ### <u>Settings</u>
-![](/./docs/wireframe%20screen%20comparison/settingswire.png)
+![](/./docs/wireframe%20screen%20comparison/trackersettings.png)
+
+### <u>Authorise remote tracker</u>
+![](/./docs/wireframe%20screen%20comparison/trackerlist.png)
 
 ## Trello Screenshots 
 (https://trello.com/b/MMurIsLO/mern-frontend-kanban)  
@@ -131,3 +128,7 @@ High-resolution wireframes located in /assets/Wireframes.
 ![](/./docs/trello2.png)
 ![](/./docs/trello3.png)
 ![](/./docs/trello1.png)
+
+## References 
+
+ABS. 2022. National Study of Mental Health and Wellbeing. https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release. Accessed 20/1/2023
