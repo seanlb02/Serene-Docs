@@ -5,9 +5,9 @@
 ### Purpose 
 
  
-1. 	Purpose:  Nowadays, around 20% of adults are suffering from mental illness. It affects a person a lot which shows on a person’s act.  This app is a platform which helps a user to track his mental health condition. There are some other purposes of this app which are given below-
+Nowadays, around 20% of adults are suffering from mental illness. It affects a person a lot which shows on a person’s act.  This app is a platform which helps a user to track his mental health condition. There are some other purposes of this app which are given below-
  
-·  	Serene is a mental health journaling platform that gives users – and other users they authorise – the ability to log and track changes in their emotional state through time.
+Serene is a mental health journaling platform that gives users – and other users they authorise – the ability to log and track changes in their emotional state through time.
 ·  	Serene was built to solve the problem people face in recounting discrete changes in their mental health and disclosing these changes to those closest to them.
 ·  	Most of the time, people don’t want to disclose their mental state to others. But for special purposes such as monitoring (e.g. data can be monitored by the psychologists), users can grant access to other users.
 ·  	This app will help to understand a user’s mood so that he/she can manage them and feel better faster. Also, it’s easier to make decisions related to health which can provide a better quality of life.
@@ -19,16 +19,15 @@
 
 ### Functionality/features 
 
-A homepage includes a hero component and a Sign-in/Sign-up button for direct user auth access
-Profile handler: greeting message, inspirational quote on reload
-Ability for users to add short journal entries with accompanying ‘emotion’ tags
-A simple mental wellbeing questionnaire – optionally answered weekly 
-Ability for users to view a weekly summary, that displays emotions and questionnaire scores from the past week, plus a daily emotions % (pie chart)
-Ability for users to grant access to their weekly summary to select users
+- A homepage includes a hero component and a Sign-in/Sign-up button for direct user auth access
+- Ability for users to add short journal entries with accompanying ‘emotion’ tags
+- A simple mental wellbeing questionnaire – optionally answered weekly 
+- Ability for users to view a daily, weekly and monthly summary of their mental wellbeing, as recorded with journal entry tags and questionnaire results. 
+- Ability for users to grant access to their weekly summary to select users
 
 ### Target Audience 
 
-Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care(?).
+Although all demographics are welcomed to user Serene, it is initially targeted at therapists/social workers by providing a way to remotely track the mental health of the people under their duty of care.
   
 ## Tech Stack 
 
@@ -53,6 +52,9 @@ Railway
 ![](./assets/dataflow.jpeg)
 
 ## Application Architecture Diagram
+
+
+
 ![](./assets/architecture.png)
 
 ## User stories 
